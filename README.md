@@ -1,1 +1,1 @@
-# databricks-ml-text-embedding-bge-large-uts-
+# databricks-ml-text-embedding-bge-large-ut
